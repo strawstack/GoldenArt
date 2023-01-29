@@ -1,3 +1,3 @@
-# WebTemplate
+# GoldenArt
 
-A web template.
+Art that follows the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio).
