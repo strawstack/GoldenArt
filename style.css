@@ -10,4 +10,21 @@ body {
     font-family: 'Nunito', sans-serif;
     font-size: 1.2rem;
     background: lightgrey;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: white;
+}
+
+canvas {
+    height: 360px;
+    width: 360px;
 }
